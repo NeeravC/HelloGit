@@ -1,0 +1,9 @@
+public class Hello {
+
+public static void main(String args[]) {
+  System.out.println("Lea Bushey :)");
+  System.out.println("Major:Computer Science)";
+  System.oupt.println("Neerav");
+  System.out.println("Computer Engineering");
+}
+}
